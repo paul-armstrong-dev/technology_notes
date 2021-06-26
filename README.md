@@ -5,7 +5,7 @@ and becoming fluent in a technology, so far have only added:
 ##### 1. Python 
 - **Style Guide**:
     - These are some more general notes in python
-  -   Written for and while working at RTL, but tried to keep it as
+  -   Written for and while working  but tried to keep it as
       generic as possible and more around best practises and useful
       packages
 ##### 2. Docker     
