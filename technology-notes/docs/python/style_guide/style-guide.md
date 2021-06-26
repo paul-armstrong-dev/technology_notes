@@ -1,5 +1,5 @@
-# rtl-py-coding-standards
-Centralized location for all RTL-python coding standards. 
+# py-coding-standards
+Centralized location for all python coding standards. 
 
 ### Values
 - **"Build tools for others that you want to be built for you." - Kenneth Reitz**
